@@ -6,7 +6,7 @@ This document provides a high-level overview of the backend architecture for the
 
 The following diagram illustrates the logical components, their responsibilities, and the primary interaction flows within the system.
 
-![Architecture Diagram](./features-and-functionalities/BE_sys_architecture.png)
+![Architecture Diagram](./BE_sys_architecture.png)
 
 > **Note:** The diagram source file can be opened and edited for free using [app.eraser.io)](https://app.eraser.io/workspace/2fa4z9na8XOWr0riqwnf?origin=share).
 
